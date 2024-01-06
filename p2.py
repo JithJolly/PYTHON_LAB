@@ -16,7 +16,7 @@ class Bank:
      def display(self):
          print("\nAccno:",self.acc, "\nAccount holder name:", self.n, "\nAcc Type:", self.t, "\nBalance:",self.b)
 
-print("**Menu**") 
+print("**Menu**")
 print("1.Deposit")
 print("2.Withdraw")
 print("3.Display")
